@@ -1,0 +1,29 @@
+[2024-11-24T02:51:29.507+0000] {processor.py:186} INFO - Started process (PID=706) to work on /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:51:29.509+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/jsont_to_datalake.py for tasks to queue
+[2024-11-24T02:51:29.511+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:29.511+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:51:29.788+0000] {processor.py:925} INFO - DAG(s) 'json_to_datalake_with_transformation' retrieved from /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:51:29.998+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:29.997+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG:json_to_datalake_with_transformation
+[2024-11-24T02:51:30.041+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.041+0000] {override.py:1911} INFO - Created Permission View: can read on DAG:json_to_datalake_with_transformation
+[2024-11-24T02:51:30.143+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.143+0000] {override.py:1911} INFO - Created Permission View: can edit on DAG:json_to_datalake_with_transformation
+[2024-11-24T02:51:30.199+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.199+0000] {override.py:1911} INFO - Created Permission View: can delete on DAG Run:json_to_datalake_with_transformation
+[2024-11-24T02:51:30.243+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.243+0000] {override.py:1911} INFO - Created Permission View: can read on DAG Run:json_to_datalake_with_transformation
+[2024-11-24T02:51:30.287+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.287+0000] {override.py:1911} INFO - Created Permission View: can create on DAG Run:json_to_datalake_with_transformation
+[2024-11-24T02:51:30.335+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.335+0000] {override.py:1911} INFO - Created Permission View: menu access on DAG Run:json_to_datalake_with_transformation
+[2024-11-24T02:51:30.343+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.343+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-24T02:51:30.364+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.363+0000] {dag.py:3262} INFO - Creating ORM DAG for json_to_datalake_with_transformation
+[2024-11-24T02:51:30.368+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:30.368+0000] {dag.py:4180} INFO - Setting next_dagrun for json_to_datalake_with_transformation to None, run_after=None
+[2024-11-24T02:51:30.446+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/jsont_to_datalake.py took 0.947 seconds
+[2024-11-24T02:51:43.880+0000] {processor.py:186} INFO - Started process (PID=721) to work on /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:51:43.882+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/jsont_to_datalake.py for tasks to queue
+[2024-11-24T02:51:43.884+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:43.884+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:51:43.912+0000] {processor.py:925} INFO - DAG(s) 'json_to_datalake_with_transformation' retrieved from /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:51:43.923+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:43.923+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-24T02:51:43.944+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:51:43.944+0000] {dag.py:4180} INFO - Setting next_dagrun for json_to_datalake_with_transformation to None, run_after=None
+[2024-11-24T02:51:43.974+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/jsont_to_datalake.py took 0.100 seconds
+[2024-11-24T02:52:14.418+0000] {processor.py:186} INFO - Started process (PID=786) to work on /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:52:14.420+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/jsont_to_datalake.py for tasks to queue
+[2024-11-24T02:52:14.422+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:52:14.422+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:52:14.440+0000] {processor.py:925} INFO - DAG(s) 'json_to_datalake_with_transformation' retrieved from /opt/airflow/dags/jsont_to_datalake.py
+[2024-11-24T02:52:14.458+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:52:14.457+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2024-11-24T02:52:14.473+0000] {logging_mixin.py:190} INFO - [2024-11-24T02:52:14.473+0000] {dag.py:4180} INFO - Setting next_dagrun for json_to_datalake_with_transformation to None, run_after=None
+[2024-11-24T02:52:14.493+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/jsont_to_datalake.py took 0.080 seconds
